@@ -15,5 +15,9 @@
  - Max and Min
  - Vlookup
 
+## Data Sourcing
+
+#### Data was given by the company in Excel format. The data cantains a sheet/table called quality of hired with 59568 rows and 9 columns.
+
 
 
