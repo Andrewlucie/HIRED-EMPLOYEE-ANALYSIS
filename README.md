@@ -25,10 +25,10 @@
 ## Data Analysis
 
 ### I aaded extra columns for 
- - age group
- - ethnicity
- - min and max
- - number of male employee
- - number of female employee
+ - age group-Nestedif
+ - ethnicity-Vlookup
+ - min and max hired date..min and max
+ - number of male employee-countif
+ - number of female employee-countif
 ![Screenshot main](https://github.com/Andrewlucie/HIRED-EMPLOYEE-ANALYSIS/assets/102406839/2e4fde0e-2400-4ca3-9025-bc50519a11aa)
 [Quality of Hire Analysis.xlsx](https://github.com/Andrewlucie/HIRED-EMPLOYEE-ANALYSIS/files/13168391/Quality.of.Hire.Analysis.xlsx)
