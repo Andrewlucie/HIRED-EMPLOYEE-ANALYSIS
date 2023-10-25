@@ -37,5 +37,5 @@
 
 ## Insights 
 ### From the Analysis, the company employed a total number of 31183 male and 28383 female and the highest age group was Young-Adult(32837) with least Elderly of 4236.
-### Highest number of staff hired in a day was 41983 with the least of 21556
+### Highest number of staff hired in a day was 41983 and the least number of staff hired in a day was 21556
 
