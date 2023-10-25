@@ -22,6 +22,8 @@
 ![Screenshot (raw)](https://github.com/Andrewlucie/HIRED-EMPLOYEE-ANALYSIS/assets/102406839/1599a69f-e4db-44c1-b8a3-291c8d13cc26)
 [Quality of Hire Analysis - (RAW DATA).xlsx](https://github.com/Andrewlucie/HIRED-EMPLOYEE-ANALYSIS/files/13168065/Quality.of.Hire.Analysis.-.RAW.DATA.xlsx)
 
+## Data cleaning
+#### Some of the date were in number and text form, i converted all to short date.
 ## Data Analysis
 
 ### I aaded extra columns for 
@@ -31,4 +33,9 @@
  - number of male employee-countif
  - number of female employee-countif
 ![Screenshot main](https://github.com/Andrewlucie/HIRED-EMPLOYEE-ANALYSIS/assets/102406839/2e4fde0e-2400-4ca3-9025-bc50519a11aa)
-[Quality of Hire Analysis.xlsx](https://github.com/Andrewlucie/HIRED-EMPLOYEE-ANALYSIS/files/13168391/Quality.of.Hire.Analysis.xlsx)
+[Quality of Hire Analysis.xlsx](https://github.com/Andrewlucie/HIRED-EMPLOYEE-ANALYSIS/files/13169240/Quality.of.Hire.Analysis.xlsx)
+
+## Insights 
+### From the Analysis, the company employed a total number of 31183 male and 28383 female and the highest age group was Young-Adult(32837) with least Elderly of 4236.
+### Highest number of staff hired in a day was 41983 with the least of 21556
+
