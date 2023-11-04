@@ -11,7 +11,7 @@
 
 ## Excel functions applied:
  - Nestedif
- - Countif
+ - Countifs
  - Max and Min
  - Vlookup
 
